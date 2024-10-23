@@ -1,0 +1,42 @@
+:root{
+    --fuente-elegante: 'Kalam', serif;
+}
+
+
+body{
+    font-family: var(--fuente-elegante);
+}
+
+
+.contenedor-citas{
+    width: 100%;
+    height: 80vh;
+    display: grid;
+    place-items: center;
+    background-color: rgb(255, 212, 196);
+
+    
+}
+
+.contenedor-citas h1{
+    text-align: center;
+    
+}
+
+.mostrar-citas{
+    width: 60%;
+    height: 90%;
+    background-color: papayawhip;
+    display: grid;
+    place-items: center;
+}
+
+#caja-de-citas{
+    
+}
+
+#boton-siguiente-cita{
+   /* position: absolute;
+    bottom: 0%;*/
+   
+}
