@@ -36,7 +36,9 @@ body{
 }
 
 #boton-siguiente-cita{
-   /* position: absolute;
-    bottom: 0%;*/
-   
+    border: 1px solid sandybrown;
+    font-family: var(--fuente-elegante);
+    background-color:  papayawhip;
+    cursor: pointer;
+    
 }
