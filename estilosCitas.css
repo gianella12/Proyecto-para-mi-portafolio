@@ -29,10 +29,8 @@ body{
     background-color: papayawhip;
     display: grid;
     place-items: center;
-}
-
-#caja-de-citas{
-    
+    border: 2px solid palevioletred;
+    border-radius: 12px;
 }
 
 #boton-siguiente-cita{
@@ -40,5 +38,6 @@ body{
     font-family: var(--fuente-elegante);
     background-color:  papayawhip;
     cursor: pointer;
-    
+    padding: 6px;
+    width: 36%;
 }
